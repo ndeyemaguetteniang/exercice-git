@@ -1,2 +1,4 @@
-# Notes du Lab Git 1
-Aujourd'hui, j'ai appris à initialiser un dépôt, faire des commits et lier mon projet à GitHub.
+# Mes notes du Lab Git 1
+- Initialiser un dépôt avec git init
+- Connecter GitHub avec un Token ou le navigateur
+- Cycle : add -> commit -> push
